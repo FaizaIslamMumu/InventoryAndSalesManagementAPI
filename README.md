@@ -17,5 +17,7 @@ Like:"ConnectionStrings": {
   You can not insert any duplicate data of any table. 
   It's just a demo of inventory . There is lots of concept to do . 
   # Store Procedure , LINQ Query
+  => Called store procedure in API 
+  => Used Linq query like lamda expression(p=>p.ID)
   
               
