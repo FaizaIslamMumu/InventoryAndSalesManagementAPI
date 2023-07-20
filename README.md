@@ -1,7 +1,12 @@
 # InventoryAndSalesManagementAPI
 # JWT Authentication Authorization
+=>Implemented authentication and authorization mechanisms to secure the APIs.
+Utilized token-based authentication to authenticate API requests.
 # Visual studio 2022, MSSQL Server 2019
-# WEB API (.NET7) 
+# Architecture and Design Patterns:
+Implemented the project Model-View-Controller (MVC) architectural pattern.
+Utilized the Repository Pattern to separate data access logic from business logic.
+ 
 # Instruction: Make sure your visual studio and sql server is updated. First you have to change your appsetting.json
 Like:"ConnectionStrings": {
     "con": "Server=./your server name;Database=InventoryAndSalesManagementAPI;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
